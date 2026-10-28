@@ -12,11 +12,11 @@ Back up and browse your files using a private Telegram channel as storage.
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-111111?style=for-the-badge&logo=apple&logoColor=white)](#requirements)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.4-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/Compose%20Multiplatform-Material%203-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://www.jetbrains.com/compose-multiplatform/)
-[![Release](https://img.shields.io/github/v/release/Mahmud0808/TeleDrive?style=for-the-badge&logo=github&logoColor=white&color=1F883D)](https://github.com/Mahmud0808/TeleDrive/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Mahmud0808/TeleDrive/total?style=for-the-badge&logo=github&logoColor=white&color=D97706)](https://github.com/Mahmud0808/TeleDrive/releases)
+[![Release](https://img.shields.io/github/v/release/SwapTech/TeleDrive?style=for-the-badge&logo=github&logoColor=white&color=1F883D)](https://github.com/SwapTech/TeleDrive/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/SwapTech/TeleDrive/total?style=for-the-badge&logo=github&logoColor=white&color=D97706)](https://github.com/SwapTech/TeleDrive/releases)
 [![License](https://img.shields.io/badge/license-Apache%202.0-6750A4?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
 <br><br>
-<a href="https://www.buymeacoffee.com/DrDisagree"><img src="https://raw.githubusercontent.com/Mahmud0808/ColorBlendr/master/.github/resources/bmc-button.png" width="30%" alt="Buy me a coffee" /></a>
+<a href="https://www.buymeacoffee.com/SwapTech"><img src="https://raw.githubusercontent.com/SwapTech/ColorBlendr/master/.github/resources/bmc-button.png" width="30%" alt="Buy me a coffee" /></a>
 </div>
 
 ---
@@ -151,7 +151,7 @@ pooled with anyone else's, and a rate limit on someone else cannot affect you.
 ## Getting started
 
 ```bash
-git clone https://github.com/Mahmud0808/TeleDrive.git
+git clone https://github.com/SwapTech/TeleDrive.git
 cd TeleDrive
 ./gradlew :android:installDebug  # Android
 ./gradlew :desktop:run           # Windows/Linux desktop

@@ -1,5 +1,5 @@
 (() => {
-  const REPO = "Mahmud0808/TeleDrive";
+  const REPO = "SwapTech/TeleDrive";
   const API = `https://api.github.com/repos/${REPO}`;
   const RELEASES_PAGE = `https://github.com/${REPO}/releases`;
   const CACHE_KEY = "teledrive:releases:v1";

@@ -291,7 +291,7 @@ compose.desktop {
                 "jdk.httpserver",
                 "jdk.unsupported"
             )
-            vendor = "DrDisagree"
+            vendor = "SwapTech"
             licenseFile.set(rootProject.file("LICENSE"))
 
             windows {
@@ -364,7 +364,7 @@ val packageDebUser = tasks.register("packageDebUser") {
                 "--app-image", appImage.get().asFile.absolutePath,
                 "--name", "TeleDrive",
                 "--app-version", debVersion,
-                "--vendor", "DrDisagree",
+                "--vendor", "SwapTech",
                 "--linux-package-name", "teledrive",
                 "--linux-package-deps", DEB_DEPENDS,
                 "--linux-shortcut",
